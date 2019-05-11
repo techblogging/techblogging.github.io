@@ -43,7 +43,7 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: techblogging-github-io
+disque: techblogging-github-io.disqus.com
 
 # Pagination
 paginate: 10
